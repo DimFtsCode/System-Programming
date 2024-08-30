@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stat.h": "c",
+        "def.h": "c",
+        "types.h": "c",
+        "stdio.h": "c",
+        "glob.h": "c"
+    }
+}
